@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:34.902495
+#+DATE: 2015-08-30 20:35:35.361599
 #+TITLE: 佛說一切如來名號陀羅尼經
 #+PROPERTY: CBETA_ID T21n1350
 #+PROPERTY: ID KR6j0580
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1350
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6j0580_T_001-0864a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1350¶
-
- 佛說一切如來名號陀羅尼經¶
+No. 1350¶
+佛說一切如來名號陀羅尼經¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
@@ -41,7 +40,7 @@ No.1350¶
 生如來遜那囉如來。持花如來持寶如來。法¶
 生如來日光如來。日照如來月光如來。無量¶
 藏如來無量莊嚴藏如來。無量光如來蓮華¶
-藏如來。天妙音如來拘枳羅音如來。如是等
+藏如來。天妙音如來拘枳羅等如來。如是等
 <pb:KR6j0580_T_001-0864b>¶
 諸佛如來名號。若人得聞為他宣說。是人六¶
 十千劫不聞惡趣之名。何況墮於阿鼻地獄。¶
