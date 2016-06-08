@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:35.870713
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:33
 #+TITLE: 佛說一切如來名號陀羅尼經
 #+PROPERTY: CBETA_ID T21n1350
 #+PROPERTY: ID KR6j0580
